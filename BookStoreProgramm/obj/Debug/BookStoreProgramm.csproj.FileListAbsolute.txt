@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BookStoreProgramm\bin\Debug\BookStoreProgramm.exe.config
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BookStoreProgramm\bin\Debug\BookStoreProgramm.exe
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BookStoreProgramm\bin\Debug\BookStoreProgramm.pdb
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BookStoreProgramm\bin\Debug\Presentation.dll
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BookStoreProgramm\bin\Debug\Definitions.dll
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BookStoreProgramm\bin\Debug\DataAccess.dll
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BookStoreProgramm\bin\Debug\Presentation.pdb
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BookStoreProgramm\bin\Debug\Definitions.pdb
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BookStoreProgramm\bin\Debug\DataAccess.pdb
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BookStoreProgramm\obj\Debug\BookStoreProgramm.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BookStoreProgramm\obj\Debug\BookStoreProgramm.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BookStoreProgramm\obj\Debug\BookStoreProgramm.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BookStoreProgramm\obj\Debug\BookStoreProgramm.exe
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BookStoreProgramm\obj\Debug\BookStoreProgramm.pdb

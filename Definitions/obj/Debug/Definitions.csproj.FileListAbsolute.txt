@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\BookStoreProgramm\Definitions\bin\Debug\Definitions.dll
+C:\Users\Lenovo\Desktop\BookStoreProgramm\Definitions\bin\Debug\Definitions.pdb
+C:\Users\Lenovo\Desktop\BookStoreProgramm\Definitions\obj\Debug\Definitions.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\BookStoreProgramm\Definitions\obj\Debug\Definitions.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BookStoreProgramm\Definitions\obj\Debug\Definitions.dll
+C:\Users\Lenovo\Desktop\BookStoreProgramm\Definitions\obj\Debug\Definitions.pdb

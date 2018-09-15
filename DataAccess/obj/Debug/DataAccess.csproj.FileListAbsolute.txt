@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\BookStoreProgramm\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Lenovo\Desktop\BookStoreProgramm\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Lenovo\Desktop\BookStoreProgramm\DataAccess\bin\Debug\Definitions.dll
+C:\Users\Lenovo\Desktop\BookStoreProgramm\DataAccess\bin\Debug\Definitions.pdb
+C:\Users\Lenovo\Desktop\BookStoreProgramm\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\BookStoreProgramm\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BookStoreProgramm\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BookStoreProgramm\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Lenovo\Desktop\BookStoreProgramm\DataAccess\obj\Debug\DataAccess.pdb

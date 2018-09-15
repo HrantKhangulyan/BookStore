@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BusinessLogic\bin\Debug\Definitions.dll
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BusinessLogic\bin\Debug\Definitions.pdb
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Lenovo\Desktop\BookStoreProgramm\BusinessLogic\obj\Debug\BusinessLogic.pdb
